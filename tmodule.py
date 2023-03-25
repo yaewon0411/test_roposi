@@ -30,3 +30,4 @@ t.left(60)
 for i in range(2):
     t.forward(size*2)
     t.right(120)
+    권혁원바보멍청이
